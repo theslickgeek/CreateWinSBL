@@ -5,7 +5,9 @@ This project was inspired by COPE.
 
 Prerequisites:
 
-- Works with SysInternal tools (included in the files)
+- Work with SysInternal tools (included in the files)
+- Require local admin rights
+- Require modification to script execution policy for Powershell if enabled
 
 
 Usage:
