@@ -15,10 +15,13 @@ Future updates to this script would include automatic file comparisons between t
 
 .EXAMPLE
 Get-SecurityBaseline.ps1 -output "C:\Temp"
+
 Creates an output folder in the Temp directory under C Drive.
 
 Get-SecurityBaseline.ps1 -SysFileHashes -Verbose
+
 Generates System32 file hashes along with standard output. Prints Verbose messages.
 
 .NOTES
+
 Close all the programs before running the script for capturing only the essential data.
