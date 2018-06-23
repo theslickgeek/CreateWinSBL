@@ -8,8 +8,6 @@ Prerequisites:
 - Work with SysInternal tools (included in the files)
 - Require local admin rights
 - Require modification to script execution policy for Powershell if enabled
+- Requires at least Powershell 3 
 
 
-Usage:
-
-PS C:\Windows\System32>  
